@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using TMPro;
 using System.Threading.Tasks;
  
-public class httpreq : MonoBehaviour
+public class Webrequest : MonoBehaviour
 {
     private string[] URLS = new string[]
     {
